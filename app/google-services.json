@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668727626743",
+    "firebase_url": "https://travelku-7eefb.firebaseio.com",
+    "project_id": "travelku-7eefb",
+    "storage_bucket": "travelku-7eefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668727626743:android:3f3028424437ff8ed1fcf2",
+        "android_client_info": {
+          "package_name": "com.asuspc.travelkushinta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668727626743-r02r9morhd2tpp70ugla2babfoaho4ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhZB_a4F3Xs88-GAjfk8Ln3t8SLaUxnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668727626743-r02r9morhd2tpp70ugla2babfoaho4ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
